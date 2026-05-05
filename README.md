@@ -37,8 +37,8 @@ This repository serves as a public index of my published articles across platfor
 
 | Patent | Number | Citations |
 |---|---|---|
-| Communication Routing | US8635366B2 | 64 citations (Cisco, Microsoft, Avaya, RingCentral) |
-| Maintaining Audio Video Conference Continuity | US10051235B2 | 26 citations |
+| Communication Routing | [US8635366B2](https://patents.google.com/patent/US8635366B2) | 64 citations (Cisco, Microsoft, Avaya, RingCentral) |
+| Maintaining Audio Video Conference Continuity | [US10051235B2](https://patents.google.com/patent/US10051235B2) | 26 citations |
 
 ---
 
