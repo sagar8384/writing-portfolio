@@ -12,7 +12,7 @@ This repository serves as a public index of my published articles across platfor
 
 | Title | Platform | Link |
 |---|---|---|
-| Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design | InfoQ | [Read](https://www.infoq.com/articles/tradeoffs-event-driven-design/)) |
+| Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design | InfoQ | [Read](https://www.infoq.com/articles/tradeoffs-event-driven-design/) |
 | The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems | Medium | [Read](https://medium.com/@jo.sagar/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-36e61b336fbf) |
 | We Solved the Recording Problem. The Playback Problem Is Still Broken. | Medium | [Read](https://medium.com/@jo.sagar/we-solved-the-recording-problem-the-playback-problem-is-still-broken-1768038911b3) |
 
